@@ -16,7 +16,7 @@ A PyBullet gym Environment for Mini Cheetah
 
 - [x] Check MPC implementation of pybullet and the simulation bed configuration.
 - [x] Import Mini Cheetah in the place of Laikago, do the requied system indentification and test the MPC controller.
-- [x] Clean and develop the simulation bed into a gym env with approproate functions and classes.
+- [x] Clean and develop the simulation bed into a gym env with appropriate functions and classes.
 - [x] Build a independent Domain Randomizer class, to work hand in hand with the environment.
 - [x] Integrate, test and verify environment.
 - [x] Add functions for capturing image as the observation.
